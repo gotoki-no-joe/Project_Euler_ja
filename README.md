@@ -4,6 +4,8 @@
 
  **CC BY-NC-SA 4.0**です。
 
+とりあえず [https://gotoki-no-joe.gitbook.io/project-euler-ja/](https://gotoki-no-joe.gitbook.io/project-euler-ja/) , [https://github.com/gotoki-no-joe/Project\_Euler\_ja](https://github.com/gotoki-no-joe/Project_Euler_ja) で公開しながらコツコツwebarchiveからサルベージ中です。
+
 ### メモ
 
 * digit と number の訳し分けが出来ていないところがある。
