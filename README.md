@@ -22,7 +22,7 @@ PR welcome :\)
 
 * GitBook v2 の使い方については[GitBook の公式ドキュメント](https://docs.gitbook.com/)を参照
 * インラインの数式は `$$...$$` というように囲む必要があるので注意
-* VSCODE などのエディタ内で GitBook の数式をプレビューしたい場合は \[Markdown Preview Enhanced\]\[preview-md\] がオススメ。`settings.json` に以下の内容を追記すると良い感じに表示されます。
+* VSCODE などのエディタ内で GitBook の数式をプレビューしたい場合は [Markdown Preview Enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) がオススメ。`settings.json` に以下の内容を追記すると良い感じに表示されます。
 
 ```javascript
   "markdown-preview-enhanced.mathInlineDelimiters": [
@@ -38,6 +38,3 @@ PR welcome :\)
     ]
   ],
 ```
-
-\[preview-md\]: [https://github.com/shd101wyy/vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced)
-
