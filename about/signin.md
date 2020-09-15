@@ -38,43 +38,41 @@
 
 名声の目的は、役に立つ、有用で、よく練られた投稿を見つけたことを投稿者や他のメンバーに知らせることです。各問題の掲示板につき5まで名声ポイントを付与することができます。ですので本当に価値があると思う投稿にのみ使用してください。
 
-#### 議論スレッドにはなぜ消滅する投稿があるのですか? [†](http://web.archive.org/web/20161030015625/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#oc9d0798) <a id="content_1_15"></a>
+#### 議論スレッドにはなぜ消滅する投稿があるのですか? <a id="content_1_15"></a>
 
-最初の100件の投稿のみが自動的に永続化されます. その後は最新の100個の投稿のみが保持されます; 古い投稿は自動的に削除されます. ただし, もし素晴らしい投稿がされた場合は管理者がそれを永続化することがあるかもしれません. Kudosはメンバーが有益な投稿を見つけ, 保存すべきであると管理者に知らせることのできる便利な方法です.[↑](http://web.archive.org/web/20161030015625/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#navigator)
+最初の100件の投稿のみが自動的に永続化されます. その後は最新の100個の投稿のみが保持されます; 古い投稿は自動的に削除されます. ただし, もし素晴らしい投稿がされた場合は管理者がそれを永続化することがあるかもしれません. Kudosはメンバーが有益な投稿を見つけ, 保存すべきであると管理者に知らせることのできる便利な方法です.
 
-#### 他に議論できる場所はないですか? [†](http://web.archive.org/web/20161030015625/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#n0a15f07) <a id="content_1_16"></a>
+#### 他に議論できる場所はないですか? <a id="content_1_16"></a>
 
 ありますよ! 一般的な議論に参加したり, 問題の解法やプログラミングのアイデアを共有したり, ウェブサイトについての提案をしたり, 問題の大まかなヒントや解説について聞くために, メンバーが投稿できる設定になっている代わりのphpBBフォーラムがあります. フォーラムへのリンクは下記に, しかしProject Eulerのサイトのアカウントから自動的にフォーラムのアカウントが移行して作られるわけではないので, フォーラムでアカウントを作成する必要があることに注意してください.
 
 フォーラムウェブアドレス : [http://forum.projecteuler.net](http://web.archive.org/web/20161030015625/http://forum.projecteuler.net/)
 
-このフォーラムでのあなたの投稿はすべてのメンバーに見えています, ですので問題の解き方を明確に暴露してしまうことが無いようよく考えて投稿する必要があることに注意してください.[↑](http://web.archive.org/web/20161030015625/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#navigator)
+このフォーラムでのあなたの投稿はすべてのメンバーに見えています, ですので問題の解き方を明確に暴露してしまうことが無いようよく考えて投稿する必要があることに注意してください.
 
-#### 問題XXXの解き方を十分会得しました, なので私の解き方をどこかに発表してもよいですか? [†](http://web.archive.org/web/20161030015625/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#xf311cab) <a id="content_1_17"></a>
+#### 問題XXXの解き方を十分会得しました, なので私の解き方をどこかに発表してもよいですか? <a id="content_1_17"></a>
 
-あなたはすでに自分の質問に答えているように思います. しばらくの間取り組んだ問題を解き明かした時のなるほど!という瞬間より素晴らしいものはありません. 他の人にもこの瞬間を楽しんでもらうために私たちの考えを共有したいという善意であることも多いでしょう. しかし残念ながら, それは読者のためにはなりません. 真の学習とは積極的なプロセスであり, また発見のひらめきを経験するまでの長い道のりが一体どのようなものであるかを垣間見ることでもあります. あなたの高じた自尊心によって他の方からその経験を奪ったりしないようお願いします.[↑](http://web.archive.org/web/20161030015625/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#navigator)
+あなたはすでに自分の質問に答えているように思います. しばらくの間取り組んだ問題を解き明かした時のなるほど!という瞬間より素晴らしいものはありません. 他の人にもこの瞬間を楽しんでもらうために私たちの考えを共有したいという善意であることも多いでしょう. しかし残念ながら, それは読者のためにはなりません. 真の学習とは積極的なプロセスであり, また発見のひらめきを経験するまでの長い道のりが一体どのようなものであるかを垣間見ることでもあります. あなたの高じた自尊心によって他の方からその経験を奪ったりしないようお願いします.
 
-#### どのようにProject Eulerと連絡を取ったらよいですか? [†](http://web.archive.org/web/20161030015625/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#e3156779) <a id="content_1_18"></a>
+#### どのようにProject Eulerと連絡を取ったらよいですか? <a id="content_1_18"></a>
 
-Project Eulerのチームメンバーと連絡を取るには上記のphpBBフォーラムを用いるのが望ましい方法です. チームは定期的にフォーラムを確認しており, 大抵の問題であれば素早く効果的に対処できます. 代わりに, **kevinsogo**氏に新しい問題のアイデアを送る, あるいは**euler**氏に緊急の技術的な問題について連絡できる[Contact](http://web.archive.org/web/20161030015625/http://projecteuler.net/contact)ページを使うことができます. 上記2つのカテゴリー以外のメッセージは無視されます.[↑](http://web.archive.org/web/20161030015625/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#navigator)
+Project Eulerのチームメンバーと連絡を取るには上記のphpBBフォーラムを用いるのが望ましい方法です. チームは定期的にフォーラムを確認しており, 大抵の問題であれば素早く効果的に対処できます. 代わりに, **kevinsogo**氏に新しい問題のアイデアを送る, あるいは**euler**氏に緊急の技術的な問題について連絡できる[Contact](http://web.archive.org/web/20161030015625/http://projecteuler.net/contact)ページを使うことができます. 上記2つのカテゴリー以外のメッセージは無視されます.
 
-#### このプロジェクトが始まったきっかけは何ですか? [†](http://web.archive.org/web/20161030015625/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#y1548c6b) <a id="content_1_19"></a>
+#### このプロジェクトが始まったきっかけは何ですか? <a id="content_1_19"></a>
 
-Project EulerはColin Hughes\(別名 euler\)により[mathschallenge.net](http://web.archive.org/web/20161030015625/http://mathschallenge.net/)のサブセクションとして始められました. 当時, この手の問題にこれほどの人気がでるとは誰も思いませんでした. 開始以来, プロジェクトを発展させるためのメンバーの交流は続いています. Project Eulerは2006年に独自ドメインに移行しました.[↑](http://web.archive.org/web/20161030015625/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#navigator)
+Project EulerはColin Hughes\(別名 euler\)により[mathschallenge.net](http://web.archive.org/web/20161030015625/http://mathschallenge.net/)のサブセクションとして始められました. 当時, この手の問題にこれほどの人気がでるとは誰も思いませんでした. 開始以来, プロジェクトを発展させるためのメンバーの交流は続いています. Project Eulerは2006年に独自ドメインに移行しました.
 
-#### Project Eulerは誰が運営していますか? [†](http://web.archive.org/web/20161030015625/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#w1723cd3) <a id="content_1_20"></a>
+#### Project Eulerは誰が運営していますか? <a id="content_1_20"></a>
 
-新しい問題のアイデアはメンバーで出しあっています. そのアイデアは有能な数学者やプログラマーによって煮詰められます. 端的に言えば, これらの人々がProject Eulerの運営者です.[↑](http://web.archive.org/web/20161030015625/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#navigator)
+新しい問題のアイデアはメンバーで出しあっています. そのアイデアは有能な数学者やプログラマーによって煮詰められます. 端的に言えば, これらの人々がProject Eulerの運営者です.
 
-#### Project Eulerに寄付することはできますか? [†](http://web.archive.org/web/20161030015625/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#l58a8698) <a id="content_1_21"></a>
+#### Project Eulerに寄付することはできますか? <a id="content_1_21"></a>
 
 もちろんできます! Project Eulerはメンバーの持ち出しで運営されています. もしあなたが問題を楽しんで, 何か恩返しがしたいと思ったら, 寄付して頂けるのは大歓迎です.
 
 \(公式のaboutページにPaypal寄付ボタンが置かれています\)
 
-[↑](http://web.archive.org/web/20161030015625/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#navigator)
-
-#### **免責事項** [†](http://web.archive.org/web/20161030015625/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#s7b00235) <a id="content_1_22"></a>
+#### **免責事項** <a id="content_1_22"></a>
 
 創設以来, 多くの人たちの協力により, ここ数年Project Eulerの人気が非常に高まっています.
 
@@ -88,9 +86,7 @@ Project EulerはColin Hughes\(別名 euler\)により[mathschallenge.net](http:/
 | :--- |
 
 
-[↑](http://web.archive.org/web/20161030015625/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#navigator)
-
-### ログイン時に問題一覧下部に表示される注意事項 [†](http://web.archive.org/web/20161030015625/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#sd59cf5a) <a id="content_1_23"></a>
+### ログイン時に問題一覧下部に表示される注意事項 <a id="content_1_23"></a>
 
 **注記**: この問題が解けないんだけど、とProject Eulerに連絡してこないでください。「解けない」ということは、つまり「解けていない」ということです!
 
