@@ -8,8 +8,6 @@
 
 [https://project-euler-ja.gitbook.io/project-euler-ja/](https://project-euler-ja.gitbook.io/project-euler-ja/), [https://github.com/gotoki-no-joe/Project\_Euler\_ja](https://github.com/gotoki-no-joe/Project_Euler_ja) で公開しながらコツコツ[webarchive](https://web.archive.org/web/20161030010432/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler)からサルベージ中です。
 
-2020-8-21 [翻訳wiki](http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler)は復旧しましたが、この活動はマイペースで継続しようと思います。
-
 ## メモ
 
 * digit と number の訳し分けが出来ていないところがある。
