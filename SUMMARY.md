@@ -393,5 +393,4 @@
   * [オイラーのトーティエント関数φ](note/oirnottiento.md)
   * [レプユニット \(repunit\)](note/repuyunitto-repunit.md)
   * [パンデジタル](note/pandejitaru.md)
-* [update test](update-test.md)
 
