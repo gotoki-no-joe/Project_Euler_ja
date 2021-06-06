@@ -1,5 +1,9 @@
 # Project Euler 和訳
 
+Project Euler [https://projecteuler.net/](https://projecteuler.net/)  
+有志による和訳Wiki [http://odz.sakura.ne.jp/projecteuler/](http://odz.sakura.ne.jp/projecteuler/)  
+をGitBookに写しているだけです。
+
 ## ライセンス
 
 **CC BY-NC-SA 4.0**です。
