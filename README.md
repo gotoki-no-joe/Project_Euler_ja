@@ -10,7 +10,9 @@ Project Euler [https://projecteuler.net/](https://projecteuler.net/)
 
 2020-7-29 GitBookからOpenSource活動として承認されました！
 
-[https://project-euler-ja.gitbook.io/project-euler-ja/](https://project-euler-ja.gitbook.io/project-euler-ja/), [https://github.com/gotoki-no-joe/Project\_Euler\_ja](https://github.com/gotoki-no-joe/Project_Euler_ja) で公開しながらコツコツ[webarchive](https://web.archive.org/web/20161030010432/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler)からサルベージ中です。
+2020-7-16 和訳Wikiが消失していたことから、[webarchive](https://web.archive.org/web/20161030010432/http://odz.sakura.ne.jp/projecteuler/index.php?Project%20Euler)からサルベージする事業を始めました。
+
+[https://project-euler-ja.gitbook.io/project-euler-ja/](https://project-euler-ja.gitbook.io/project-euler-ja/)で公開しています。
 
 ## メモ
 
