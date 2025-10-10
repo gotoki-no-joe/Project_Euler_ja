@@ -637,6 +637,6 @@
     * [961 : 数字を取り除くゲーム](901-1000/961-970/p961.md)
 * [のおと](note/README.md)
   * [二項係数](note/er-xiang-xi-shu.md)
-  * [オイラーのトーティエント関数φ](note/oirnottiento.md)
+  * [オイラーのトーシェント関数φ](note/oirnottiento.md)
   * [レプユニット (repunit)](note/repuyunitto-repunit.md)
   * [パンデジタル](note/pandejitaru.md)
