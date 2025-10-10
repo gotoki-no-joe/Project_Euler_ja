@@ -6,4 +6,4 @@
 [Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%AE%CF%86%E9%96%A2%E6%95%B0)
 
 実装の例：\
-[https://rosettacode.org/wiki/Totient\_function](https://rosettacode.org/wiki/Totient_function#Haskell)
+[https://rosettacode.org/wiki/Totient\_function](https://rosettacode.org/wiki/Totient_function)
